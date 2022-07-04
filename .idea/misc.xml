@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1875" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable/background_splashscreen.xml" value="0.1875" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable/curve.xml" value="0.1875" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable/ic_download.xml" value="0.1875" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable/ic_label.xml" value="0.1875" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1875" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable/ic_pdf.xml" value="0.1875" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/drawable/ic_wave.xml" value="0.1865" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/activity_developer.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/activity_ebook.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/activity_elibrary.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/activity_full_image_view.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/activity_results.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/activity_website.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/branch_item_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/drawer_header.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/e_library.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/ebook_item_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/faculty_item_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/fragment_about.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/fragment_faculty.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/fragment_gallery.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/fragment_home.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/fragment_notice.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/gallery_image.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/newsfeed_item_layout.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/no_data_found.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/layout/shimmer_for_ebook.xml" value="0.15806159420289856" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/menu/bottom_nav.xml" value="0.17916666666666667" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/menu/navigation_drawer.xml" value="0.17916666666666667" />
+        <entry key="..\:/sumit/Project6/College_App_User/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1865" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sumit.gehu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pu_logo2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/pu_logo2"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PUSSGRC">
+        <activity android:name="com.sumit.gehu.Developer"
+            android:parentActivityName="com.sumit.gehu.MainActivity"/>
+        <activity android:name="com.sumit.gehu.Website"
+            android:parentActivityName="com.sumit.gehu.MainActivity"/>
+        <activity android:name="com.sumit.gehu.ELibrary"
+            android:parentActivityName="com.sumit.gehu.MainActivity"/>
+        <activity android:name="com.sumit.gehu.Results"
+            android:parentActivityName="com.sumit.gehu.MainActivity"/>
+        <activity android:name="com.sumit.gehu.FullImageView"/>
+        <activity
+            android:name="com.sumit.gehu.ebook.EbookActivity"
+            android:parentActivityName="com.sumit.gehu.MainActivity" />
+        <activity
+            android:name="com.sumit.gehu.SplashScreen"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sumit.gehu.MainActivity"
+            android:theme="@style/Theme.PUSSGRC" />
+    </application>
+
+</manifest>
